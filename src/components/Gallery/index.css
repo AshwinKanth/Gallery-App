@@ -1,0 +1,24 @@
+.app-container {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 40px;
+}
+
+.bg_container {
+}
+
+.heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.description {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.photo-list-items {
+  display: flex;
+  padding-left: 0px;
+}
